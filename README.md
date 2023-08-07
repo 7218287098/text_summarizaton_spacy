@@ -2,10 +2,11 @@
 
 ## This project demonstrates text summarization using the SpaCy library. Text summarization is the process of condensing a longer document into a shorter version while retaining its main ideas and important details. The project leverages the natural language processing capabilities of SpaCy to create concise summaries from input text.
 
-![Project Logo](https://github.com/7218287098/logo_images/blob/3c1edf2c0f9008a7f3000ac6e43a9a8aeeac55ff/text_summarization.png)
 - [Introduction](#introduction)
 # Introduction
 
 Text summarization is a fundamental task in the realm of natural language processing (NLP) that aims to distill the essential information from a source text while preserving its core meaning and significance. It plays a crucial role in enabling efficient information retrieval, aiding comprehension, and reducing information overload in today's data-rich world. This project showcases the utilization of the SpaCy library to accomplish text summarization, offering users a tool to effortlessly generate concise and coherent summaries from longer textual content.
+
 In various scenarios, ranging from news articles and research papers to online content and legal documents, the ability to quickly extract key insights is invaluable. Traditional manual methods of summarization are time-consuming and subject to bias, prompting the need for automated solutions that leverage the power of natural language processing. SpaCy, a widely acclaimed NLP library, empowers this project by providing robust linguistic analysis and an intuitive interface for implementing text summarization techniques.
+
 The primary objective of this project is to provide a user-friendly, adaptable, and accurate text summarization tool. By harnessing the capabilities of SpaCy, users can effortlessly generate summaries that encapsulate the essence of longer texts. Whether one is a researcher aiming to distill the essence of a scholarly article, a student seeking to understand a complex topic, or an individual simply trying to grasp the key points of an article, this project offers an accessible solution for effective text summarization.
